@@ -1,0 +1,11 @@
+id,model_name,description,accuracy,last_trained_date,created_at,updated_at
+1,Linear Regression,A basic model used for predicting a continuous target variable.,95.3,2025-01-05,2025-01-10,2025-01-10
+2,ARIMA,AutoRegressive Integrated Moving Average model for time series forecasting.,90.5,2025-01-06,2025-01-10,2025-01-10
+3,Decision Tree,A model used for classification and regression tasks based on decision rules.,92.7,2025-01-07,2025-01-10,2025-01-10
+4,Random Forest,An ensemble learning method using multiple decision trees to improve accuracy.,94.8,2025-01-08,2025-01-10,2025-01-10
+5,XGBoost,A gradient boosting model known for high performance and speed.,97.5,2025-01-09,2025-01-10,2025-01-10
+6,LSTM,Long Short-Term Memory network for sequence prediction tasks.,93.6,2025-01-10,2025-01-10,2025-01-10
+7,Naive Bayes,A simple probabilistic model used for classification tasks.,88.2,2025-01-05,2025-01-10,2025-01-10
+8,Support Vector Machine (SVM),A model used for classification and regression tasks based on hyperplanes.,91.4,2025-01-06,2025-01-10,2025-01-10
+9,Prophet,A forecasting model based on additive regression.,89.9,2025-01-07,2025-01-10,2025-01-10
+10,K-Nearest Neighbors (KNN),A model used for classification based on the proximity of data points.,85.8,2025-01-08,2025-01-10,2025-01-10

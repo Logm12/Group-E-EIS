@@ -1,0 +1,11 @@
+id,user_id,message,status,sent_at
+1,9,Your order #12345 has been shipped.,sent,2025-01-10
+2,10,Your payment for order #12346 was successful.,sent,2025-01-10
+3,8,New discount available: 10% off on all products!,sent,2025-01-10
+4,5,Your order #12347 is now in transit.,sent,2025-01-10
+5,4,Your order #12348 has been delivered successfully.,sent,2025-01-10
+6,3,Your payment for order #12349 failed. Please try again.,failed,2025-01-10
+7,7,Your restock order #98765 has been successfully processed.,sent,2025-01-10
+8,6,Order #12350 has been cancelled due to payment failure.,sent,2025-01-10
+9,2,Your account has been successfully updated.,sent,2025-01-10
+10,1,Your shipment #54321 has been delivered.,sent,2025-01-10

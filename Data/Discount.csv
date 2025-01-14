@@ -1,0 +1,11 @@
+id,code,description,discount_type,value,start_date,end_date
+1,DISCOUNT10,10% off on all products,percentage,10,2025-01-01,2025-02-01
+2,SAVE50,Save 50k on orders over 500k,fixed,50000,2025-01-10,2025-01-20
+3,NEWYEAR20,20% off for new customers,percentage,20,2025-01-01,2025-01-31
+4,OFF100,100k off on orders over 1M,fixed,100000,2025-02-01,2025-02-28
+5,HOLIDAY15,15% off for holiday shopping,percentage,15,2025-12-01,2025-12-31
+6,BLACKFRIDAY,Black Friday 50% off,percentage,50,2025-11-25,2025-11-26
+7,WINTER25,25% off for winter season,percentage,25,2025-12-01,2026-01-15
+8,SALE200,Save 200k on orders over 2M,fixed,200000,2025-03-01,2025-03-31
+9,SUMMER30,30% off on summer collection,percentage,30,2025-06-01,2025-06-30
+10,SPRING50,50% off on selected items,percentage,50,2025-03-01,2025-03-31

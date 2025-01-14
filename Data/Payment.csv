@@ -1,0 +1,11 @@
+id,order_id,payment_method,status,amount,transaction_date
+1,1,credit_card,completed,500000,2025-01-10
+2,2,paypal,pending,300000,2025-01-10
+3,3,bank_transfer,completed,1000000,2025-01-10
+4,4,cash,failed,200000,2025-01-10
+5,5,credit_card,completed,700000,2025-01-10
+6,6,paypal,completed,1200000,2025-01-10
+7,7,bank_transfer,pending,500000,2025-01-10
+8,8,credit_card,completed,800000,2025-01-10
+9,9,cash,failed,300000,2025-01-10
+10,10,paypal,completed,1000000,2025-01-10

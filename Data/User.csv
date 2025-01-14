@@ -1,0 +1,11 @@
+﻿id,username,password,role,created_at
+1,admin1,pass01,admin,2025-01-10
+2,admin2,pass02,manager,2025-01-10
+3,admin3,pass03,customer,2025-01-10
+4,admin4,pass04,customer,2025-01-10
+5,admin5,pass05,customer,2025-01-10
+6,admin6,pass06,admin,2025-01-10
+7,admin7,pass07,manager,2025-01-10
+8,admin8,pass08,customer,2025-01-10
+9,admin9,pass09,customer,2025-01-10
+10,admin10,pass10,customer,2025-01-10

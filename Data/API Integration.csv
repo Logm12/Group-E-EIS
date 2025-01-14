@@ -1,0 +1,11 @@
+id,source_system,reference_id,data,last_synced_at
+1,ERP,ERP_REF_123456,"order_id: 1, customer_name: Nguyen Van Anh, total_amount: 150000",2025-01-10
+2,CRM,CRM_REF_654321,"customer_id: 1, name: Nguyen Van Anh, contact_number: 0901234567",2025-01-10
+3,ERP,ERP_REF_789012,"order_id: 2, customer_name: Tran Thi Binh, total_amount: 250000",2025-01-10
+4,CRM,CRM_REF_987654,"customer_id: 2, name: Tran Thi Binh, contact_number: 0912345678",2025-01-10
+5,ERP,ERP_REF_345678,"order_id: 3, customer_name: Le Thi Duyen, total_amount: 200000",2025-01-10
+6,CRM,CRM_REF_876543,"customer_id: 3, name: Le Thi Duyen, contact_number: 0923456789",2025-01-10
+7,ERP,ERP_REF_234567,"order_id: 4, customer_name: Pham Minh Giang, total_amount: 450000",2025-01-10
+8,CRM,CRM_REF_765432,"customer_id: 4, name: Pham Minh Giang, contact_number: 0934567890",2025-01-10
+9,ERP,ERP_REF_654987,"order_id: 5, customer_name: Nguyen Thi Hong, total_amount: 300000",2025-01-10
+10,CRM,CRM_REF_543210,"customer_id: 5, name: Nguyen Thi Hong, contact_number: 0945678901",2025-01-10

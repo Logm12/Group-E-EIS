@@ -1,0 +1,11 @@
+﻿id,name,location,contact_number,manager_name,created_at,updated_at
+1,Kho Hà Nội,"123 Đường Láng, Hà Nội",024-12345678,Nguyễn Văn A,2025-01-10,2025-01-10
+2,Kho Hồ Chí Minh,"456 Nguyễn Thị Minh Khai, TP.HCM",028-23456789,Trần Thị B,2025-01-10,2025-01-10
+3,Kho Đà Nẵng,"789 Nguyễn Văn Linh, Đà Nẵng",0236-9876543,Phan Văn C,2025-01-10,2025-01-10
+4,Kho Bình Dương,"101 Đại Lộ Bình Dương, Bình Dương",0274-1234567,Lê Thị D,2025-01-10,2025-01-10
+5,Kho Cần Thơ,"202 Đường Lê Lợi, Cần Thơ",0292-7654321,Hoàng Minh E,2025-01-10,2025-01-10
+6,Kho Quảng Ninh,"303 Đường Hạ Long, Quảng Ninh",0203-4567890,Phạm Hữu F,2025-01-10,2025-01-10
+7,Kho Hải Phòng,"404 Lê Hồng Phong, Hải Phòng",0225-3456789,Trịnh Minh G,2025-01-10,2025-01-10
+8,Kho Nghệ An,"505 Quang Trung, Nghệ An",0238-5678901,Nguyễn Thi H,2025-01-10,2025-01-10
+9,Kho Lâm Đồng,"606 Trần Phú, Lâm Đồng",0263-8765432,Bùi Minh I,2025-01-10,2025-01-10
+10,Kho An Giang,"707 Nguyễn Thị Thập, An Giang",0296-2345678,Dương Minh J,2025-01-10,2025-01-10

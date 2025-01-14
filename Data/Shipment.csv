@@ -1,0 +1,11 @@
+id,order_id,shipping_method,tracking_number,status,shipped_at,delivered_at
+1,1,standard,TT123456789,in_transit,2025-01-10,2025-01-12
+2,2,express,TT987654321,delivered,2025-01-10,2025-01-10
+3,3,overnight,TT456789123,delivered,2025-01-10,2025-01-10
+4,4,standard,TT321654987,in_transit,2025-01-10,2025-01-12
+5,5,express,TT852147963,failed,2025-01-10,2025-01-12
+6,6,standard,TT654987321,in_transit,2025-01-10,2025-01-12
+7,7,express,TT741258369,delivered,2025-01-10,2025-01-10
+8,8,overnight,TT963258741,in_transit,2025-01-10,2025-01-13
+9,9,standard,TT159753486,delivered,2025-01-10,2025-01-10
+10,10,express,TT456123789,failed,2025-01-10,2025-01-14

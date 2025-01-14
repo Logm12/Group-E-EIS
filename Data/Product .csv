@@ -1,0 +1,11 @@
+﻿id,name,description,supplier_id,price,product_code,category_id,stock_quantity,created_at,updated_at
+1,Gạo ST25,"Special fragrant rice, long and soft grains, suitable for dishes like rice and porridge.",3,30000,GAO-ST25,1,100,2025-01-10,2025-01-10
+2,Mì tôm Hảo Hảo,"A famous instant noodle brand in Vietnam, with rich seasoning, ready to eat in 3 minutes.",7,7000,MI-HAO-HAO,2,200,2025-01-10,2025-01-10
+3,Nước mắm Phú Quốc,"Traditional fish sauce from Phú Quốc, made from fresh anchovies.",2,50000,NUOC-MAM-PQ,3,150,2025-01-10,2025-01-10
+4,Trái cây Sài Gòn,"A mix of fresh fruits including mangoes, melons, and apples, ideal for a light snack.",8,35000,TRAI-CAY-SG,4,50,2025-01-10,2025-01-10
+5,Cá Basa Đồng Nai,"Fresh Basa fish from Đồng Nai, high quality, easy to prepare.",6,120000,CA-BASA-DN,5,20,2025-01-10,2025-01-10
+6,Cà phê Trung Nguyên,"Trung Nguyên ground coffee, rich and aromatic, perfect for mornings.",5,120000,CA-PHE-TN,6,200,2025-01-10,2025-01-10
+7,Bánh chưng Tết,"Traditional Vietnamese Bánh chưng, made from glutinous rice, pork, and green beans.",4,100000,BANH-CHUNG-TET,7,50,2025-01-10,2025-01-10
+8,Bia Sài Gòn,"Saigon beer, a famous Vietnamese product, refreshing and easy to drink.",1,15000,BIA-SG,8,500,2025-01-10,2025-01-10
+9,Sữa đặc Ông Thọ,"Sweetened condensed milk, perfect for making coffee or baking.",10,22000,SUA-ONG-THO,9,300,2025-01-10,2025-01-10
+10,Chè Thái Nguyên,"Famous Thai Nguyen tea, rich in flavor, ideal for the afternoon.",9,30000,CHE-THAI-NG,10,100,2025-01-10,2025-01-10

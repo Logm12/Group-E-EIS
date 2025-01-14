@@ -1,0 +1,11 @@
+﻿id,name,email,phone_number,address,contact_person,created_at,updated_at
+1,Công Ty ABC,abccompany@email.com,901122334,"123 Lê Duẩn, Hà Nội, Việt Nam",Nguyễn Văn A,2025-01-10,2025-01-10
+2,Công Ty XYZ,xyzcompany@email.com,912233445,"456 Trần Hưng Đạo, TP.HCM, Việt Nam",Trần Thị B,2025-01-10,2025-01-10
+3,Nhà Cung Cấp Minh Đức,minhducsupplier@email.com,923344556,"789 Nguyễn Lương Bằng, Đà Nẵng, Việt Nam",Lê Thị C,2025-01-10,2025-01-10
+4,Công Ty Duy Anh,duyanhcompany@email.com,934455667,"101 Nguyễn Thị Minh Khai, Hải Phòng, Việt Nam",Phạm Minh D,2025-01-10,2025-01-10
+5,Công Ty Thịnh Vượng,thinhvuong@email.com,945566778,"202 Trần Quốc Toản, Cần Thơ, Việt Nam",Nguyễn Thị E,2025-01-10,2025-01-10
+6,Nhà Cung Cấp Bùi Phát,buiphatcompany@email.com,956677889,"303 Lê Quang Diệu, Vinh, Việt Nam",Bùi Thị F,2025-01-10,2025-01-10
+7,Công Ty Hoàng Kim,hoangkim@email.com,967788990,"404 Bảo Lộc, Lâm Đồng, Việt Nam",Đặng Thị G,2025-01-10,2025-01-10
+8,Nhà Cung Cấp An Bình,anbinhsupplier@email.com,978899001,"505 Đà Nẵng, Huế, Việt Nam",Hoàng Minh H,2025-01-10,2025-01-10
+9,Công Ty Vũ Hoàng,vuhoangcompany@email.com,989900112,"606 Nguyễn Tri Phương, Quảng Nam, Việt Nam",Vũ Thị I,2025-01-10,2025-01-10
+10,Công Ty Phát Triển,phattrien@email.com,990011223,"707 Trần Cao Vân, Bình Định, Việt Nam",Phạm Thị J,2025-01-10,2025-01-10

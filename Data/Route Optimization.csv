@@ -1,0 +1,11 @@
+﻿id,delivery_id,route_details,total_distance,total_time,created_at,updated_at
+1,1,Hồ Chí Minh -> Bình Dương -> Long An,120.5,90,2025-01-10,2025-01-10
+2,2,Hà Nội -> Vĩnh Phúc -> Bắc Ninh,95.3,80,2025-01-10,2025-01-10
+3,3,Đà Nẵng -> Quảng Nam -> Quảng Ngãi,150.2,110,2025-01-10,2025-01-10
+4,4,TP.HCM -> Long An -> Tiền Giang,180,120,2025-01-10,2025-01-10
+5,5,Cần Thơ -> Vĩnh Long -> Bạc Liêu,200.1,130,2025-01-10,2025-01-10
+6,6,TP.HCM -> Bình Dương -> Tây Ninh,160.7,100,2025-01-10,2025-01-10
+7,7,Hà Nội -> Nam Định -> Ninh Bình,120,90,2025-01-10,2025-01-10
+8,8,Đà Nẵng -> Quảng Ngãi -> Phú Yên,140.8,95,2025-01-10,2025-01-10
+9,9,TP.HCM -> Vũng Tàu -> Bà Rịa,130.6,85,2025-01-10,2025-01-10
+10,10,Hà Nội -> Hưng Yên -> Thái Bình,110.4,75,2025-01-10,2025-01-10

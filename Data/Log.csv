@@ -1,0 +1,11 @@
+id,event_type,description,created_at
+1,inventory_update,"Updated the stock of product #1, increased by 100 units.",2025-01-10
+2,order_status_change,Order #1 has been changed to 'processed' status.,2025-01-10
+3,shipment_update,Order #1 has been shipped and is in transit with tracking number TT123456789.,2025-01-10
+4,order_status_change,Order #2 has been changed to 'shipped' status.,2025-01-10
+5,inventory_update,Product #2 has been restocked with an additional 50 units.,2025-01-10
+6,shipment_update,Order #3 has been successfully delivered at 2:00 PM.,2025-01-10
+7,order_status_change,Order #4 was cancelled due to payment issues.,2025-01-10
+8,inventory_update,"Stock of product #5 has been updated, reduced by 10 units due to a completed order.",2025-01-10
+9,shipment_update,Order #7 has been successfully delivered at 3:00 PM.,2025-01-10
+10,order_status_change,Order #6 has been changed to 'pending' status.,2025-01-10
